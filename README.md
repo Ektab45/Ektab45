@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ektab45
-- 🌱 I’m currently learning
+- 🌱 I’m a BCA student, currently learning
 
 
 <!---
